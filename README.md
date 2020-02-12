@@ -45,3 +45,10 @@ What we are looking for
 2) Use plain ruby for solving the problems
 
 
+## Step to Run
+
+    * Clone the repo
+    
+    * Goto the github_score directory
+    
+    * Run "ruby github_score.rb" 
